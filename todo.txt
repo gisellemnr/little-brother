@@ -1,0 +1,1 @@
+- export the data in csv format (gephi takes csv)
